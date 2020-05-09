@@ -2,8 +2,8 @@
 /**
  * Write a description of class LogAnalyzer here.
  * 
- * @HARSH DWIVEDI
- * @09-05-2020
+ * @ HARSH DWIVEDI
+ * @ 09-05-2020
  */
 
 import java.util.*;
