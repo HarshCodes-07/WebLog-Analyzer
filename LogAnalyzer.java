@@ -2,8 +2,8 @@
 /**
  * Write a description of class LogAnalyzer here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @HARSH DWIVEDI
+ * @09-05-2020
  */
 
 import java.util.*;
